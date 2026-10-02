@@ -1,7 +1,5 @@
-# Lab 01 - Control de Versiones con Git
+# ACTUALIZACIÓN DEL PROYECTO
 
-Proyecto del Laboratorio 01 del curso.
+Página web inicial que incluye el titulo principal, slogan y la barra de navegación principal
 
-## Autor
 
-Tu Nombre - Laboratorio 01
